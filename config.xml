@@ -1,0 +1,17 @@
+<BackupConfiguration>
+    <DefaultBackupPath>C:\Backup</DefaultBackupPath>
+    <DefaultPassword>Password</DefaultPassword>
+    <BackupItemList>
+        <BackupItem>
+            <Name>BackupExample</Name>
+            <SourceBackupPath>C:\Users\thoma\Desktop\core</SourceBackupPath>
+            <Zip>true</Zip>
+            <UseDefaultPath>true</UseDefaultPath>
+            <UseDefaultPassword>true</UseDefaultPassword>
+            <IsZipPasswordProtected>true</IsZipPasswordProtected>
+            <Password>not in use because default password is used</Password>
+            <DestBackupPath>not in use because default backup path is used</DestBackupPath>
+            <CompressionLevel>-mx9</CompressionLevel>
+        </BackupItem>
+    </BackupItemList>
+</BackupConfiguration>
